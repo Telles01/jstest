@@ -4,6 +4,13 @@
 //console.log(altura);
 //let nome, idade, altura;
 
-let valorIngressoAdulto = 20;
-valorIngressoAdulto = 30;
-console.log(valorIngressoAdulto);
+//let valorIngressoAdulto = 20;
+//valorIngressoAdulto = 30;
+//console.log(valorIngressoAdulto);
+
+let nome = 'Carlos'; //string liberal
+let idade = 25; //number liberal
+let estaAprovado = true; //boolean
+let sobrenome = undefined; //undefined
+let corSelecionada = null; //
+

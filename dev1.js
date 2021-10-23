@@ -13,6 +13,17 @@ let idade = 25; //number liberal
 let estaAprovado = true; //boolean
 let sobrenome = undefined; //undefined
 let corSelecionado = null; //
-let surname = "Teles";
+
+
+let pessoa = {
+  nome: 'Rafael',
+  idade: 25,
+  estaAprovado: true,
+  sobrenome: 'telesa',
+  sexo: true
+
+};
+
+console.log(pessoa);
 
 

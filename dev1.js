@@ -12,5 +12,7 @@ let nome = 'Carlos'; //string liberal
 let idade = 25; //number liberal
 let estaAprovado = true; //boolean
 let sobrenome = undefined; //undefined
-let corSelecionada = null; //
+let corSelecionado = null; //
+let surname = "Teles";
+
 

@@ -26,4 +26,7 @@ let pessoa = {
 
 console.log(pessoa);
 
+let familia = [25,30,57,'Queiroz'];
+console-log(familia[2]);
+
 

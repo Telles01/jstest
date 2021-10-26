@@ -32,5 +32,8 @@ console-log(familia[2]);
 let nameRoomMate = ['Carlos', 'Jose','Maria','Zuzu'];
 console.log(nameRoomMate[0]);
 
+let endereco = ["n1", "n2", "n3"];
+console.log(endereco[2]);
+
 
 

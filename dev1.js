@@ -35,5 +35,8 @@ console.log(nameRoomMate[0]);
 let endereco = ["n1", "n2", "n3"];
 console.log(endereco[2]);
 
+let CPF = [01,02,03];
+console.log(CPF[0]);
+
 
 

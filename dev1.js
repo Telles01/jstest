@@ -38,5 +38,8 @@ console.log(endereco[2]);
 let cpf = [0,1,2,3,4,5];
 console.log(cpf[0]);
 
+let parents = ['father', 'mother', 'sister', 'brother'];
+console.let(parents[1]);
+
 
 

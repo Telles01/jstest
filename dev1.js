@@ -72,6 +72,6 @@ console.log(market[0]);
 let suprem = ['Iphone 2g', 'Iphone 3', 'Iphone 3gs','Iphone 4', 'Iphone 4s', 'Iphone 5', 'Iphone 5s' ];
 console.log(smartphone[0]);
 
-let furniture = ['cama','cadeira','mesa','poltrona'];
-console.log(furniture[0]);
+let city = ['Sao Paulo', 'Rio de Janeiro', 'Florianopolis'];
+console.log(city[0]);
 

@@ -73,6 +73,9 @@ console.log(smartphone[0]);
 let city = ['Sao Paulo', 'Rio de Janeiro', 'Florianopolis'];
 console.log(city[0]);
 
-let farm = ['cow','horse', 'sheep',];
+let farm = ['cow','horse', 'sheep'];
 console.log(farm[0]);
+
+let city = ['Rio', 'SP','BH'];
+console.log(city[0]);
 
